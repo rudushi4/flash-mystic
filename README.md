@@ -15,7 +15,7 @@
 ---
 
 ## Screenshots
-*(Add screenshots here if you have)*
+
 
 ---
 
@@ -46,5 +46,5 @@ It does not send real cryptocurrency or access real wallets.
 ---
 
 ## Connect
-Made with mystic energy by **[Rudushi Xplore](https://github.com/RudushiXplore)**  
+Made with mystic energy by  **[Maria Rudushi](https://github.com/rudushi4)**  
 Telegram: [@ScriptsChats](https://t.me/ScriptsChats)
